@@ -1,0 +1,3 @@
+[submodule "themes/dd-cv"]
+	path = themes/dd-cv
+	url = https://github.com/xdavidel/hugo-cv-theme.git
