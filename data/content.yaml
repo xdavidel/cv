@@ -15,9 +15,9 @@ BasicInfo:
       Info: Ha’asor 3/3, Ma'ale Adumim
 
 Profile:
-  Intro: Skilled cyber researcher and software engineer proficient in multiple CPU architectures, computer programming languages and complex software designs. 
+  Intro: Skilled cyber researcher and software engineer proficient in multiple CPU architectures, computer programming languages and complex software designs.
   Listings:
-    - Bullet: Passionate about low-level efficient programming. 
+    - Bullet: Passionate about low-level efficient programming.
     - Bullet: Expertise in several imperative, object-oriented, data oriented, and functional programming languages.
     - Bullet: Expertise with research tools such as IDA Pro, Ghidra, Radare2/Rizin, AFL (fuzzer), Nmap, Wireshark, pafish, fakenet, Metasploit, etc.
     - Bullet: Expertise with security technologies, authentications methods, cryptography and network protocols.
@@ -39,7 +39,7 @@ Experience:
           - Black-box vulnerability research for Autosar ECU production code in Tricore Assembly
           - Developing research environment infrastructure and tools.
         Badges: ['Assembly', 'C', 'Linux']
-  
+
   - Employer: Armo
     Place: Jerusalem
     Positions:
@@ -50,7 +50,7 @@ Experience:
           - Developing a VSCode extension the wraps Kubescape functionality.
           - Developing a Lens extension the wraps Kubescape functionality.
         Badges: ['C', 'HTML', 'CSS', 'Linux']
-        
+
   - Employer: Rafael Advanced Defense Systems
     Place: Hagvura St. Tel-Aviv
     Positions:
@@ -61,7 +61,7 @@ Experience:
           - Worked with Linux based embedded systems and the ARM / THUMB architecture
           - Research over RTU firmware and software in a SCADA network
         Badges: ['Assembly', 'C', 'Python']
-        
+
   - Employer: United Mizrachi Tefahot Bank (ITeam)
     Place: Lincoln 15, Tel-Aviv
     Positions:
@@ -72,7 +72,7 @@ Experience:
           - Employees Smart card, smart clearance and permissions system
           - Managing the company HSM machines & CA Servers
         Badges: ['Angular', 'C#', 'Batch']
-  
+
   - Employer: Israel Aerospace Industries (IAI)
     Place: Ben Gurion Airport, 70100, Lod
     Positions:
@@ -82,7 +82,7 @@ Experience:
           - Desktop application using the WPF framework and MVVM architecture. Extensive C# dotNet & dotNetCore understanding
           - Web apps development using AspNet, Angular Framework and NodeJS
         Badges: ['C#', 'NodeJs', 'Angular']
-  
+
   - Employer: Israel Air Force (IAF)
     Class: "experience__extra_padding"
     Positions:
@@ -96,16 +96,16 @@ Experience:
         Badges: ['Python', 'Bash']
 
 Education:
-  - Course: Cyber Elite Program (JCT & Cyber Education Center) 
-    Place: Jerusalem College of Technology 
+  - Course: Cyber Elite Program (JCT & Cyber Education Center)
+    Place: Jerusalem College of Technology
     Date: 2018
     Details: 550 hours course in cyber security
-    
+
   - Course: B.Sc. Computer Science – Majored in Networks and Security
     Place: Jerusalem College of Technology
     Date: 2012-2016
     Details: Graduated with average score 91/100
-    
+
   - Course: Computers & Electronics Technical Engineer
     Place: Kinneret Academic College, Sea of Galilee, Postal 15132
     Date: 2009
@@ -114,12 +114,16 @@ Education:
 Programing:
   - Name: C/C++
     Mastery: 9
+    Icon: fa-solid fa-c
   - Name: Rust
     Mastery: 5
     Icon: fab fa-rust
   - Name: Zig
     Mastery: 4
     Icon: fas fa-solid fa-bolt
+  - Name: Golang
+    Mastery: 4
+    Icon: fab fa-golang
   - Name: Python
     Mastery: 8
     Icon: fab fa-python
@@ -137,6 +141,7 @@ Programing:
     Icon: fas fa-solid fa-database
   - Name: C#
     Mastery: 6
+    Icon: fab fa-microsoft
   - Name: Java
     Mastery: 6
     Icon: fab fa-java
@@ -150,7 +155,7 @@ Skills:
       - ARM
       - PowerPC
       - Hexagon
-      - TriCore     
+      - TriCore
   - Family: Frameworks
     Items:
       - Hugo
