@@ -14,15 +14,15 @@ enableMetaTags = true
 colorLight = "#fff"
 colorDark = "#666"
 colorPageBackground = "#ddd"
-colorPrimary = "#e3bfb8"
+colorPrimary = "#75509f"
 colorSecondary = "#aaa"
 colorIconPrimary = "#fff"
-colorIconBackground = "#e3bfb8"
+colorIconBackground = "#75509f"
 colorRightColumnBackground = "#f5f5f5"
 colorRightColumnHeadingText = "#666"
 colorRightColumnBodyText = "#666"
 colorRightColumnIconPrimary = "#fff"
-colorRightColumnIconBackground = "#e3bfb8"
+colorRightColumnIconBackground = "#75509f"
 
 pages = 2
 
