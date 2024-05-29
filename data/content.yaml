@@ -27,11 +27,21 @@ Profile:
 
 
 Experience:
+  - Employer: SolarEdge
+    Place: HaMada 1, Herzliya
+    Positions:
+      - Title: Cyber Security Researcher
+        Date: 2024 - Present
+        Details:
+          - Build & assimilate Security Development Cycle for R&D.
+          - Security research and code reviews of company products.
+          - Involvement in security designs of new projects.
+        Badges: ['Assembly', 'C', 'C++', 'Python', 'Linux']
   - Employer: JSOF
     Place: Aba Eban 18, Jerusalem
     Positions:
       - Title: Security researcher & Low-Level Developer
-        Date: 2022 - Present
+        Date: 2022 - 2023
         Details:
           - Reversing QuRT (RTOS) on Hexagon DSP
           - Developing Linux kernel driver for coprocessor attack simulation with suitable user-mode library
