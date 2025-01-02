@@ -1,0 +1,196 @@
+BasicInfo:
+  FirstName: דוד
+  LastName: דלארוזה
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +972 54 4461608
+    - Icon: fas fa-envelope
+      Info: <a class="contact__link" href="mailto:xdavidel@gmail.com">xdavidel@gmail.com</a>
+    - Icon: fab fa-github
+      Info: <a class="contact__link" href="https://github.com/xdavidel" target="_blank">xdavidel@github</a>
+    - Icon: fab fa-gitlab
+      Info: <a class="contact__link" href="https://gitlab.com/xdavidel" target="_blank">xdavidel@gitlab</a>
+    - Icon: fas fa-map-marker-alt
+      Info: Ha’asor 3/3, Ma'ale Adumim
+
+Profile:
+  Intro: חוקר סייבר מוכשר ומפתח תוכנה מומחה במספר ארכיטקטורות, מעבדים ושפות תכנות
+  Listings:
+    - Bullet: מחזיק קרוב ללב תכנות יעיל וקרוב לברזלים
+    - Bullet: ניסיון בארכיטקטורות קוד שונות כגון ירושה, תכנות פונקציונאלי ועוד.
+    - Bullet: עבודה עם כלי מחקר רבים כגון IDA Pro, Ghidra, Radare2/Rizin, AFL (fuzzer), Namp, Wireshark, pafish וכו'.
+    - Bullet: נסיון בטכנולוגיות אבטחה, קריפטוגרפיה ואוטנטיקציה.
+    - Bullet: ניסיון רב בתכנות בשפות נמוכות ותכנות אתרים.
+    - Bullet: ידע מעשי רחב בארכיטקטורות מעבדים דרייברים ו Bootloader-ים.
+  Outro: משתמש הדוק של מערכת הפעלה Linux תוך שימוש ב NixOS ו dynamic tiling כסביבת עבודה. אוהב למצוא דרכים לשפר את יעילות העבודה וסביבתה.
+
+
+Experience:
+  - Employer: SolarEdge
+    Place: המדע 1, הרצליה
+    Positions:
+      - Title: חוקר אבטחה וסייבר
+        Date: 2024 - היום
+        Details:
+          - בניית תהליכי בקרת חולשות והשתלבות בתהליכי הפיתוח.
+          - ביצוע בדיקות קוד למציאת חולשות על מוצרי החברה.
+          - מעורבות בתכן של פרוייקטים חדשות תוך התחשבות בשיקולי אבטחה.
+        Badges: ['Assembly', 'C', 'C++', 'Python', 'Linux']
+  - Employer: JSOF
+    Place: אבא אבן 18, ירושלים.
+    Positions:
+      - Title: חוקר אבטחת מידע ומפתח Low-Level
+        Date: 2022 - 2023
+        Details:
+          - הנדסה לאחור של מערכת מבוססת QuRT (RTOS) בארכיטקטורת Hexagon.
+          - פיתוח של דרייבר עבור קרנל של לינוקס למטרת הדגמת יכולות תקיפה.
+          - פיתוח ובדיקת קוד מיוצא ללקוחות
+          - מחקר "קופסא שחורה" של חיפוש חולשות עבור ECU של Autosar בארכיטקטורת TriCore.
+          - פיתוח סביבת מחקר וכלים
+        Badges: ['Assembly', 'C', 'Linux']
+
+  - Employer: Armo
+    Place: ירושלים
+    Positions:
+      - Title: מפתח מנוסה של תוכנה בשכבות הנמוכות
+        Date: 2020 - 2022
+        Details:
+          - פיתוח של פתרון בזמן ריצה עבור מערכות ענן שמעניק לתהליכים הצפנה של מידע על הדיסק ובין נקודות תקשורת ושמירה על האמינות של תהליכים רצים.
+          - פיתוח של תוסף עבור VSCode למעטפת של המוצר Kubescape.
+          - פיתוח של תוסף עבור סביבת Lens עבור המוצר Kubescape.
+        Badges: ['C', 'HTML', 'CSS', 'Linux']
+
+  - Employer: Rafael Advanced Defense Systems
+    Place: הגבורה, תל-אביב
+    Positions:
+      - Title: חוקר חולשות והנדסה לאחור
+        Date: 2017 - 2020
+        Details:
+          - מחקר של מספר פרוייקטים עבור התעשייה הצבאית של מדינת ישראל.
+          - עבודה על מערכת משובצת בסביב לינוקס בארכיטקטורת Arm.
+          - מחקר על קושחת RTU ברשת SCADA.
+        Badges: ['Assembly', 'C', 'Python']
+
+  - Employer: בנק מזרחי טפחות (ITeam)
+    Place: לינקולן 15, תל-אביב
+    Positions:
+      - Title: תת ניהול אבטחה ורשתות
+        Date: 2015 - 2017
+        Details:
+          - ניהול פרוייקטי אבטחה של מזרחי טפחות
+          - אחריות על מערכת אישורי כניסה חכמים, תגי עובד והרשאות
+          - ניהול של שרתי מפתחות ו HSM
+        Badges: ['Angular', 'C#', 'Batch']
+
+  - Employer: תעשייה אווירית לישראל (IAI)
+    Place: נמל תעופה בן-גוריון, 70100, לוד
+    Positions:
+      - Title: מפתח Full-Stack
+        Date: 2015 - 2017
+        Details:
+          - אפלקציות מבוססות WPF בארכיטקטורת MVVM.
+          - אפליקציות Web בטכנולוגיית ASP.NET ו Angular
+        Badges: ['C#', 'NodeJs', 'Angular']
+
+  - Employer: חיל האוויר הישראלי (IAF)
+    Class: "experience__extra_padding"
+    Positions:
+      - Title: טכנאי דרג ד' לאלקטרוניקה ומחשבים
+        Date: 2009 - 2012
+        Details:
+          - פרוייקטים רבים למערכות ההגנה האוויריות
+          - כתיבת סקריפטים ב python ו Bash
+          - תיקון כרטיסים אלקטרונים של מכלולי רחפנים ומטוסים
+        Badges: ['Python', 'Bash']
+
+Education:
+  - Course: סייבר עילית (מכון לב והמרכז לחינוך סייבר)
+    Place: המרכז האקדמי לב
+    Date: 2018
+    Details: 550 שעות קורס בנושאי סייבר שונים
+
+  - Course: תואר ראשון בהנדסת תקשורת מחשבים
+    Place: המרכז האקדמי לב
+    Date: 2012-2016
+    Details: סיום לימודים בממוצע 91
+
+  - Course: הנסדאי אלקטרוניקה ומחשבים
+    Place: המכללה האקדמית כנרת, 15132
+    Date: 2009
+    Details:
+
+Programing:
+  - Name: C/C++
+    Mastery: 9
+    Icon: fa-solid fa-c
+  - Name: Rust
+    Mastery: 5
+    Icon: fab fa-rust
+  - Name: Zig
+    Mastery: 4
+    Icon: fas fa-solid fa-bolt
+  - Name: Golang
+    Mastery: 4
+    Icon: fab fa-golang
+  - Name: Python
+    Mastery: 8
+    Icon: fab fa-python
+  - Name: POSIX shell / bash
+    Mastery: 9
+    Icon: fab fa-linux
+  - Name: HTML+CSS+SASS
+    Mastery: 6
+    Icon: fab fa-html5
+  - Name: Javascript / Typescript
+    Mastery: 7
+    Icon: fab fa-js
+  - Name: SQL
+    Mastery: 8
+    Icon: fas fa-solid fa-database
+  - Name: C#
+    Mastery: 6
+    Icon: fab fa-microsoft
+  - Name: Java
+    Mastery: 6
+    Icon: fab fa-java
+  - Name: Powershell
+    Mastery: 3
+    Icon: fas fa-code
+Skills:
+  - Family: Assembly Flavours
+    Items:
+      - x86
+      - ARM
+      - PowerPC
+      - Hexagon
+      - TriCore
+  - Family: Frameworks
+    Items:
+      - Hugo
+      - React
+      - Angular
+  - Family: Protocols
+    Items:
+      - TCP/IP
+      - UDP
+      - Diffie Hellman
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Docker / Podman
+      - GDB
+      - Core Utils
+  - Family: Misc
+    Items:
+      - IDA
+      - Ghidra
+      - radare2/rizin
+      - Neovim
+      - Emacs
+      - (Tiling) Window Managers
+Diplomas:
+  - 550 שעות קורס סייבר
+  - תואר ראשון בהנדסת תקשורת מחשבים
+  - הנדסאי אלקטרוניקה ומחשבים
+

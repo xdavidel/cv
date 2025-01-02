@@ -1,5 +1,6 @@
 languageCode = "en-us"
 defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
 enableRobotsTXT = true
 enableEmoji = true
 

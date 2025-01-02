@@ -23,7 +23,7 @@ Profile:
     - Bullet: Expertise with security technologies, authentications methods, cryptography and network protocols.
     - Bullet: Extensive experience from low-level programming to front-end web development.
     - Bullet: Advanced practical knowledge in CPU architectures, BIOS/UEFI, Drivers and more.
-  Outro: Mostly lives in my comfy Arch Linux system using river as a dynamic tiling window manager. Passionate about finding more ways to improve productivity and ease of my workstation usage.
+  Outro: Mostly lives in my comfy NixOS system using Hyprland as a wayland compositor with tiling capabilities. Passionate about finding more ways to improve productivity and ease of my workstation usage.
 
 
 Experience:
