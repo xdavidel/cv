@@ -9,6 +9,18 @@ disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
 
 title = 'David_Delarosa-CV'
 
+[languages]
+  [languages.en]
+    languageCode = 'en-US'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    weight = 1
+  [languages.he]
+    languageCode = 'he-IL'
+    languageDirection = 'rtl'
+    languageName = 'Hebrew'
+    weight = 1
+
 
 [params]
 enableMetaTags = true
